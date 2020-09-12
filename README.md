@@ -1,8 +1,8 @@
 # Java-Mini-Project
 
-   Contributed By: 
-    Vyshnav , 
+   Team Members:  
     Ann ,
+    Vyshnav ,
     Anoop ,
     Vysakh ,
     Devashree   ,
