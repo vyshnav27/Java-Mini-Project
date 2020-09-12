@@ -5,5 +5,5 @@
     Ann ,
     Anoop ,
     Vysakh ,
-    Deva   ,
+    Devashree   ,
     Aadhil
